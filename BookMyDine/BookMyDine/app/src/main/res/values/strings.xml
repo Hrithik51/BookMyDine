@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BookMyDine</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detailpage">Detailpage</string>
+
+
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="title_activity_gmap">Gmap</string>
+    <string name="title_activity_review">Review</string>
+    <string name="title_activity_offer">Offer</string>
+    <string name="title_activity_videopage">Videopage</string>
+    <string name="title_activity_category">Category</string>
+    <string name="title_activity_favourite">Favourite</string>
+    <string name="title_activity_booktable">Booktable</string>
+    <string name="title_activity_setting">Setting</string>
+    <string name="pref_about_application">ABOUT APPLICATION</string>
+    <string name="pref_version_summary">1.0</string>
+    <string name="pref_version">Version</string>
+    <string name="pref_about_developer">ABOUT DEVELOPER</string>
+    <string name="app_recipient">admin@redixbit.com</string>
+    <string name="pref_contact_app">Contact Us</string>
+    <string name="pref_contact_app_summary">For more information contact us.</string>
+    <string name="app_subject">BookMyDine</string>
+    <string name="email_no_client">No email client installed.</string>
+    <string name="email_choose_from_client">Choose an email client from...</string>
+    <string name="title_activity_about">About</string>
+    <string name="title_activity_termcondition">Termcondition</string>
+    <string name="opensans">OpenSans-Regular.ttf</string>
+    <string name="Home_banner">no</string>
+    <string name="category_banner">no</string>
+    <string name="favourite_banner">no</string>
+    <string name="review_banner">no</string>
+    <string name="about_banner">no</string>
+    <string name="term_banner">no</string>
+    <string name="Home_show_ads">no</string>
+    <string name="Detail_show_ads">no</string>
+    <string name="Category_show_ads">no</string>
+    <string name="Favourite_show_ads">no</string>
+    <!--
+    <string name="insertial_ad_key">ca-app-pub-3730886167471578/7823396048</string>
+    <string name="banner_ad_key">ca-app-pub-3730886167471578/6129996844</string>
+
+
+
+
+
+
+
+
+
+
+    -->
+    <string name="facebook_app_id">637409849754983</string>
+    <string name="insertial_ad_key">ca-app-pub-6257913950558441/4899635211</string>
+    <string name="banner_ad_key">ca-app-pub-6257913950558441/3422902017</string>
+    <!-- <string name="liveurl">http://restaurant.freeoda.com/</string>-->
+    <string name="liveurl">http://192.168.1.19/restaurantfinder/</string>
+    <!-- <string name="liveurl">http://asia-brainpool.com/resfithkc/</string> -->
+    <string name="title_activity_splash">BookMyDine</string>
+
+    <!-- menu page localize -->
+    <string name="home">Home</string>
+    <string name="category">Category</string>
+    <string name="favourites">Favourites</string>
+    <string name="specialoffers">Special Offers</string>
+    <string name="about">About us</string>
+    <string name="social">Social Sharing</string>
+    <string name="terms">Terms and Conditions</string>
+    <string name="profile">Profile</string>
+
+    <!-- navigation localize -->
+    <string name="map">Map</string>
+    <string name="review">Review</string>
+    <string name="book">Book the Table</string>
+
+    <!-- detail page localization -->
+    <string name="available">AVAILABLE AT</string>
+    <string name="timing">TIMING</string>
+    <string name="totalrv">Total Review:</string>
+
+    <!-- book table localize -->
+    <string name="name">NAME</string>
+    <string name="mail">MAIL ID</string>
+    <string name="phone">PHONE NUMBER</string>
+    <string name="date">DATE</string>
+    <string name="time">TIME</string>
+    <string name="person">NUMBER OF PERSON</string>
+    <string name="order">BOOKNOW</string>
+    <string name="experience">Your Experience</string>
+    <string name="createprofile">CREATE PROFILE</string>
+    <string name="updateprofile">UPDATE PROFILE</string>
+    <string name="submitnew">Submit</string>
+    <string name="cancelnew">Cancel</string>
+    <string name="updatenew">Update</string>
+    <string name="entername">Enter Your Name</string>
+    <string name="entermail">Enter Your Mail Id</string>
+    <string name="ok">OK</string>
+    <!-- about us localize -->
+    <string name="aboutparagraph1">This is an application to find you dine nearby you. Checkout the restaurants and choose your favourite cuisine.</string>
+    <string name="aboutparagraph2">This application is based on Java and developed in Android Studio</string>
+    <string name="aboutparagraph3"></string>
+    <string name="aboutparagraph4"></string>
+    <string name="aboutparagraph5">-Rutvik Patel</string>
+
+    <!-- terms and condition localize -->
+    <string name="termparagraph1">Because a Terms and Conditions agreement is the agreement where you inform the users of your website about the rules, terms and guidelines that they need to follow in order to use and access your website, a Terms and Conditions agreement has become extremely important.</string>
+    <string name="termparagraph2">The main purpose of this part of our website is to distribute free legal documents. At the moment, we have templates for website terms and conditions, copyright notices, website disclaimers, medical disclaimers, legal disclaimers, privacy statements, cookies policies, anti-spam policies and linking policies. We plan to add more documents in future.</string>
+    <string name="termparagraph3">The copyright notice specifies the terms upon which the copyright material on a website is licensed to users.Countries which have signed up to the Berne Convention should ensure that there are no formalistic pre-requisites to copyright protection under their laws. For this reason, under the laws of Berne Convention countries copyright will subsist in a website even where there are no copyright notices. However, you should still include a copyright notice because it clarifies permitted uses of the material on the website, and under some legal systems a copyright notice will benefit you if you need to enforce the copyright.</string>
+    <string name="termparagraph4"></string>
+    <string name="termparagraph5"></string>
+
+    <!-- internet connection -->
+
+    <string name="Error">Error</string>
+    <string name="internet">You have no internet connection.</string>
+    <string name="servererror">No Data Found</string>
+    <string name="commenthere">Comment Here</string>
+
+    <!-- Home favourite page  share -->
+    <string name="miles">miles</string>
+    <string name="Loadmore">Load More</string>
+    <string name="loading">Loading...</string>
+    <string name="norecord">"No Record in Favourites"</string>
+    <string name="sharelink">Share Links!</string>
+    <string name="sharingstatement">The great advantage of a restaurant is that it\'s a refuge from home life.</string>
+
+    <!-- quit dialog -->
+    <string name="Quit">Quit</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="statementquit">Are you sure you want to quit?</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+
+</resources>
